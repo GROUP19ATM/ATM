@@ -45,5 +45,5 @@ class IncomeTax:
         balance = self.fetchBalance(self.account_number)
         high_bound = int(balance * 3 / 10)
         low_bound = 10000 if int(balance * 3 / 10) > 10000 else int(high_bound / 2)
-        income_tax_returns = np.random.randint(low=low_bound, high=high_bound)
+        income_tax_returns = np.random.randint(low=low_bound, high=min([100000, high_bound]))
         return income_tax_returns
