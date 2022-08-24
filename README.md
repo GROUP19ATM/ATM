@@ -2,7 +2,7 @@
 
 This project is a simple mimic of ATM system
 
-## Some working screenshots of the project
+## Screenshots of different operations that this ATM can perform
 
 I. Login page
 
