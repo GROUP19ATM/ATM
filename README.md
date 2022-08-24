@@ -18,22 +18,28 @@ This project is a simple mimic of ATM system
 
 4. Deposit
 
+![image](https://user-images.githubusercontent.com/104689759/186417876-71f6d739-a842-423f-9299-bea17c2084db.png)
+
 5. Check balance
 ![image](https://user-images.githubusercontent.com/104689759/186416268-d0c98a7f-b433-42df-8425-d02bc7467c0e.png)
 
 6. Cheque Deposit
 
   a. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416395-8d3c74a6-435d-4034-aaba-56ba349a65de.png)
   
   b. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416422-eb49d383-2888-42ba-a32f-9a5ac04af2fd.png)
 
 7. Fund Transfer
   a. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416558-9f99d756-3648-4b5e-8d93-b21bae862020.png)
   
   b. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416603-4ec34522-882e-4870-8014-ab488651410d.png)
 
 8. Income Tax Payment
@@ -47,15 +53,20 @@ This project is a simple mimic of ATM system
 10. Update Account Details
 
   a.
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416721-6618eaa7-d406-4033-88cc-7b269cfa89dc.png)
   b. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416757-4854dbf3-9ffd-4a62-9afd-e3f6748964eb.png)
 
 11. Change Pin
 
   a. 
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416877-c7bc3e51-6670-45ed-958b-3a9ef16cd060.png)
-  b. 
+  
+  b.
+  
   ![image](https://user-images.githubusercontent.com/104689759/186416823-9a9b6c1c-f3eb-4bef-82b8-fc55feca2f61.png)
   
 12. Loan Application Initiation
