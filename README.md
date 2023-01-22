@@ -1,6 +1,6 @@
 # Project: ATM
 
-This project is a simple mimic of ATM system
+This project is a simple mimic of an ATM system
 
 ## Screenshots of different operations that this ATM can perform
 
